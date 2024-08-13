@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="Panel" alignment="0" pref="950" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="Panel" alignment="0" pref="610" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="Panel">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="false"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="36" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Inicio"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="20" y="10" width="400" height="40"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Container class="guiRecursos.GuiJScrollPane" name="guiJScrollPane1">
+          <Properties>
+            <Property name="viewportView" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
+              <ComponentRef name="jTextArea1"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="30" y="60" width="890" height="500"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="jTextArea1">
+              <Properties>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="14" style="0"/>
+                </Property>
+                <Property name="lineWrap" type="boolean" value="true"/>
+                <Property name="rows" type="int" value="5"/>
+                <Property name="text" type="java.lang.String" value="Bienvenidos a Nuestra Secci&#xf3;n de Clientes&#xa;&#xa;En nuestra plataforma, valoramos a nuestros clientes por encima de todo. Sabemos que su satisfacci&#xf3;n es fundamental para el &#xe9;xito de los servicios que ofrecemos. En esta secci&#xf3;n, nos complace brindarles un espacio dedicado para que puedan acceder a una amplia gama de funcionalidades dise&#xf1;adas espec&#xed;ficamente para satisfacer sus necesidades.&#xa;&#xa;Lo que puedes hacer en la Secci&#xf3;n de Clientes:&#xa;&#xa;Buscar Profesionales: Explora y encuentra a los profesionales que mejor se adapten a tus necesidades. Filtra por tipo de servicio,ubicaci&#xf3;n y m&#xe1;s para encontrar al experto adecuado.&#xa;&#xa;Solicitar Cotizaciones: &#xbf;Necesitas un servicio espec&#xed;fico? Envi&#xe1; una solicitud de cotizaci&#xf3;n a varios profesionales para recibir ofertas personalizadas y seleccionar la que m&#xe1;s te convenga.&#xa;&#xa;Gestionar Tus Servicios: Si ya has contratado a un profesional a trav&#xe9;s de nuestra plataforma, puedes gestionar tus servicios desde tu panel de cliente. Haz seguimiento de los trabajos, pagos y comunicaci&#xf3;n directa con los profesionales.&#xa;&#xa;Rese&#xf1;as y Calificaciones: Comparte tus experiencias y califica a los profesionales con los que has trabajado. Ayuda a otros clientes a tomar decisiones informadas.&#xa;&#xa;Mensajer&#xed;a Directa: Comun&#xed;cate con los profesionales a trav&#xe9;s de nuestro sistema de mensajer&#xed;a directa. Coordina detalles, plazos y cualquier pregunta que puedas tener.&#xa;&#xa;Hist&#xf3;rico de Servicios: Accede a un registro completo de todos los servicios que has contratado a trav&#xe9;s de nuestra plataforma. Mant&#xe9;n un historial de tus proyectos pasados y futuros.&#xa;&#xa;Soporte al Cliente: Si necesitas ayuda en cualquier momento, nuestro equipo de soporte al cliente est&#xe1; a tu disposici&#xf3;n. No dudes en contactarnos en caso de preguntas o problemas.&#xa;&#xa;Tu Comodidad es Nuestra Prioridad&#xa;&#xa;En nuestra secci&#xf3;n de clientes, nos esforzamos por hacer que tu experiencia sea lo m&#xe1;s sencilla y eficiente posible. Estamos aqu&#xed; para ayudarte a encontrar a los profesionales adecuados y garantizar que tus proyectos se ejecuten sin problemas.&#xa;&#xa;Gracias por confiar en nosotros. &#xa1;Estamos emocionados de tenerte como parte de nuestra comunidad de clientes!&#xa;"/>
+                <Property name="wrapStyleWord" type="boolean" value="true"/>
+                <Property name="caretPosition" type="int" value="0"/>
+                <Property name="focusable" type="boolean" value="false"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
