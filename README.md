@@ -1,4 +1,5 @@
 # App-Servitec  
+![Servitec Banner](https://github.com/nelsonjhongp/app-servitec/blob/2a9fed49e31925f1796ad2f068547836c3204459/servitecbanner.png)
 **Plataforma para la conexión de clientes y profesionales de servicios de trabajo en el hogar**  
 
 ## Descripción  
